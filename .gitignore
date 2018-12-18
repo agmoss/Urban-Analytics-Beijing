@@ -1,0 +1,11 @@
+/.vscode
+/env
+/Data
+scratch.py
+*.html
+*.zip
+*.log
+*.png
+*.csv
+.idea/
+config.json
