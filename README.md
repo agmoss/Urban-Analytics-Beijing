@@ -1,4 +1,4 @@
-# Urban Analytics : Beijing
+# Urban Analytics: Beijing
 
 This project is a visualization tool for location based IOT data transmissions. The intended use of this program is for the analysis of fleet vehicle movement. Latitude and longitude transmissions are enginerred to create custom heatmaps and an accurate temporal analysis of the IOT enabled objects. 
 
