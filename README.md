@@ -21,9 +21,8 @@ taxi id, date time, longitude, latitude
 
 Notable Features
 
-* File I/O and computationally intensive functions are processed in parallel
-* Data structures are processed in a custom map-reduce pattern
-* Interactive Folium heatmap 
+* File I/O functions are processed in parallel
+* Interactive Folium heatmap of IOT activity
 
 
 ### Prerequisites
