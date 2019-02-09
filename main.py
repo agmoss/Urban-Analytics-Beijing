@@ -39,7 +39,7 @@ def main(config):
     df = pd.concat(df_list)
 
     # Take sample for visual
-    df = df.sample(frac=0.6, replace=True)
+    df = df.sample(frac=0.9, replace=True)
 
     # Clean index
     df.reset_index(inplace=True, drop=True)

@@ -9,3 +9,4 @@ scratch.py
 *.csv
 .idea/
 config.json
+__pycache__

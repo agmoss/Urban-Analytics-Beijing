@@ -1,15 +1,19 @@
 # Urban Analytics: Beijing
 
-This project is a visualization tool for location based IOT data transmissions. The intended use of this program is for the analysis of fleet vehicle movement. Latitude and longitude transmissions are enginerred to create custom heatmaps and an accurate temporal analysis of the IOT enabled objects. 
+This project is a visualization tool for location based IOT data transmissions. The intended use of this program is for the analysis of fleet vehicle movement. Latitude and longitude transmissions are engineered to create custom heatmaps and an accurate temporal analysis of the IOT enabled objects. 
 
 Sample data for this project has been provided by Microsoft Research. 
 
 https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/
 
+# Example
+
+![example](example.jpg)
+
 
 # Description of Data
 
-The T-Drive dataset contains the GPS trajectories of 10,357 taxis during the period of Febuary 2nd to Febuary 8th 2008 within Beijing. The dataset contains roughly 15 million individual IOT transmissions. 
+The T-Drive dataset contains the GPS trajectories of 10,357 taxis during the period of February 2nd to February 8th 2008 within Beijing. The dataset contains roughly 15 million individual IOT transmissions. 
 
 Each row of data has the following CSV fields:
 

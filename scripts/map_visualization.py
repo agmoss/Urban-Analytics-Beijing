@@ -85,5 +85,5 @@ class LocationMap:
         # convert to (n, 2) nd-array format for heat map
         location_arr = df[['latitude', 'longitude']].values
 
-        hm = plugins.HeatMap(location_arr, radius=1, blur=1, max_val=3)
+        hm = plugins.HeatMap(location_arr, radius=2, blur=1, max_val=3)
         hm.add_to(self.fmap)
